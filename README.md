@@ -1,4 +1,3 @@
-# hello-world
-my first github repository
+## Lires
 
-sometimes, i want to make some joly thingss!
+Li‘s any resources on github
